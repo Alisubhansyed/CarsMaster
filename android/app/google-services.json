@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720633265037",
+    "project_id": "rentala-15ff0",
+    "storage_bucket": "rentala-15ff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720633265037:android:339abb551e2ce43cd4dbc4",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720633265037-k3ko4ve0bjn336at4qaeh374b8lqb512.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBApLD5T7DXc3_T5QRD4jzUGqdJdLleFKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720633265037-k3ko4ve0bjn336at4qaeh374b8lqb512.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
